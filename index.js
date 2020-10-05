@@ -1,3 +1,3 @@
 const apples = () => {
-  console.log(apples);
+  console.log(bananas);
 }
